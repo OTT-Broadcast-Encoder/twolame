@@ -1,0 +1,16 @@
+# Local configure and compilation output.
+/.skip
+Makefile
+/config.log
+/config.status
+/libtool
+/twolame.pc
+/doc/html/Doxyfile
+/libtwolame/config.h
+/libtwolame/stamp-h1
+/simplefrontend/stwolame
+.deps/
+.libs/
+*.o
+*.lo
+*.la
